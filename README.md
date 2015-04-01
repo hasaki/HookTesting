@@ -6,3 +6,5 @@ Testing
 Now lets see if the command shows up!
 
 Hooking #TRN-47
+
+Making two
